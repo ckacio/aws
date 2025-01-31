@@ -3,8 +3,6 @@ using Amazon.SecretsManager;
 using Amazon.SecretsManager.Model;
 
 var builder = WebApplication.CreateBuilder(args);
-
-builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

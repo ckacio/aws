@@ -1,0 +1,3 @@
+Teste de texto na versão 2
+
+O Amazon Simple Storage Service (Amazon S3) é um serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade de dados, segurança e performance líderes do setor. Milhões de clientes de todos os tamanhos e setores armazenam, gerenciam, analisam e protegem qualquer quantidade de dados para praticamente qualquer caso de uso, como data lakes, aplicações nativos de nuvem e aplicações móveis. Com classes de armazenamento econômicas e recursos de gerenciamento fáceis de usar, você pode otimizar custos, organizar e analisar dados e configurar controles de acesso ajustados para atender a requisitos específicos de negócios e conformidade.

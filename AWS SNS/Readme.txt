@@ -1,0 +1,1 @@
+O Amazon SNS (Simple Notification Service) é um serviço de mensagens gerenciado da AWS projetado para comunicação assíncrona entre sistemas (aplicação para aplicação) e para o envio de notificações diretas a usuários finais

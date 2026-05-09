@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|c:\\github\\aws\\aws sns\\aws.sns.samples\\controllers\\publishusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|solutionrelative:controllers\\publishusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|c:\\github\\aws\\aws sns\\aws.sns.samples\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|c:\\github\\aws\\aws sns\\aws.sns.samples\\service\\snsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|solutionrelative:service\\snsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|c:\\github\\aws\\aws sns\\aws.sns.samples\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|c:\\github\\aws\\aws sns\\aws.sns.samples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|c:\\github\\aws\\aws sns\\aws.sns.samples\\service\\isqnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|solutionrelative:service\\isqnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|c:\\github\\aws\\aws sns\\aws.sns.samples\\aws.sns.samples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|solutionrelative:aws.sns.samples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|c:\\github\\aws\\aws sns\\aws.sns.samples\\model\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB5E5B6-6328-415D-A123-6E594DF46FCD}|AWS.SNS.Samples.csproj|solutionrelative:model\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:46:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISQNService.cs",
+              "DocumentMoniker": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Service\\ISQNService.cs",
+              "RelativeDocumentMoniker": "Service\\ISQNService.cs",
+              "ToolTip": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Service\\ISQNService.cs",
+              "RelativeToolTip": "Service\\ISQNService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:40:01.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SNSService.cs",
+              "DocumentMoniker": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Service\\SNSService.cs",
+              "RelativeDocumentMoniker": "Service\\SNSService.cs",
+              "ToolTip": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Service\\SNSService.cs",
+              "RelativeToolTip": "Service\\SNSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:29:26.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:24:20.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Service\\UserService.cs*",
+              "RelativeToolTip": "Service\\UserService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:23:12.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AWS.SNS.Samples",
+              "DocumentMoniker": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\AWS.SNS.Samples.csproj",
+              "RelativeDocumentMoniker": "AWS.SNS.Samples.csproj",
+              "ToolTip": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\AWS.SNS.Samples.csproj",
+              "RelativeToolTip": "AWS.SNS.Samples.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T00:22:40.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Model\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Model\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Model\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Model\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:21:36.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublishUserController.cs",
+              "DocumentMoniker": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Controllers\\PublishUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublishUserController.cs",
+              "ToolTip": "C:\\GitHub\\aws\\AWS SNS\\AWS.SNS.Samples\\Controllers\\PublishUserController.cs*",
+              "RelativeToolTip": "Controllers\\PublishUserController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:13:36.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

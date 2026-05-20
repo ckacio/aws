@@ -1,0 +1,1 @@
+O Amazon S3 (Simple Storage Service) é um serviço de armazenamento de objetos na nuvem altamente escalável, seguro e de alta performance desenvolvido pela Amazon Web Services. Ele permite que empresas e desenvolvedores armazenem e recuperem qualquer volume de dados de forma simples, a partir de qualquer lugar da web. 
